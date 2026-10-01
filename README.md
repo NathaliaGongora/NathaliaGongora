@@ -24,6 +24,7 @@ Ferramentas e metodologias
 - Figma
 - Trello
 - Scrum
+  
 Projetos em desenvolvimento
 MedControl
 Sistema desktop para gerenciamento de medicamentos, horários, dosagens e alertas. Desenvolvido em Java com Swing, JDBC e SQL Server como projeto acadêmico da FACENS.
